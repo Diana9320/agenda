@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agenda", "agenda\agenda.csproj", "{D2B197C5-C13D-4D1E-A55C-7BBC7FB27EEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fisier", "Fisier\Fisier.csproj", "{159164C1-6863-448B-A674-D9627EE993ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2B197C5-C13D-4D1E-A55C-7BBC7FB27EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B197C5-C13D-4D1E-A55C-7BBC7FB27EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B197C5-C13D-4D1E-A55C-7BBC7FB27EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B197C5-C13D-4D1E-A55C-7BBC7FB27EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{159164C1-6863-448B-A674-D9627EE993ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159164C1-6863-448B-A674-D9627EE993ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159164C1-6863-448B-A674-D9627EE993ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159164C1-6863-448B-A674-D9627EE993ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDE14041-FDD6-4DFA-B0A5-369F031AEC14}
+	EndGlobalSection
+EndGlobal
